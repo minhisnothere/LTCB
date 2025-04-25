@@ -3,7 +3,7 @@
 #include<string.h>
 struct ds{
 	int so_tien;
-	char sdt[10];
+	char sdt[11];
 };
 typedef ds ds;
 void nhap(){
